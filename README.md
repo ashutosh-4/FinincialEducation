@@ -1,3 +1,3 @@
 # FinincialEducation
 
-A website that will democratise finincial education.
+A website that will democratize finincial education.
